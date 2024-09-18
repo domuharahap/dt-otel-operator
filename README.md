@@ -31,6 +31,8 @@ The instrumentation needs to be deployed in the namespace of the running applica
 
 **Available annotations:**
 
+https://opentelemetry.io/docs/kubernetes/operator/automatic/
+
 .NET: <code> instrumentation.opentelemetry.io/inject-dotnet: "true" </code>
 
 Java: <code> instrumentation.opentelemetry.io/inject-java: "true" </code>
